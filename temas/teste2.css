@@ -16,7 +16,7 @@
     --color-dark-blue:#181818;
     --color-dark-red:#181818;
     --movie-overlay:radial-gradient(circle at 20% 50%,#000 5.46%,rgba(21,101,192,0.46));
-    --background-pipe:url(https://sucodemanga.com.br/wp-content/uploads/2018/09/anime-sad-thumb.jpg)!important;
+    --background-pipe:url(https://sucodemanga.com.br/wp-content/uploads/2018/09/anime-sad-thumb.jpg);
     --gradient-background:radial-gradient(at 30% top,#072e46 0%,#081c24 70%)
 }
 body{
@@ -43,7 +43,7 @@ body{
     background-image:none
 }
 #hoeapp-wrapper,#main-content{
-    background-image:url(https://semeando.cc/img/bg_natal.png);
+    background-image:url(https://images6.alphacoders.com/880/thumb-1920-880825.png);
     background-color:#181818;
     background-repeat:repeat-x-y
 }
@@ -95,7 +95,7 @@ i.torrent-icon
     background-color:var(--color-dark-blue)
 }
 #l-footer{
-    background-image:url(https://semeando.cc/img/bg_natal.png);
+    background-image:url(https://images6.alphacoders.com/880/thumb-1920-880825.png);
     background-color:#181818;
     background-repeat:repeat-x-y
 }
