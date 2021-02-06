@@ -20,7 +20,7 @@
     --gradient-background:radial-gradient(at 30% top,#072e46 0%,#081c24 70%)
 }
 body{
-    background-color:var(--color-dark-blue)
+    background-img: url(https://images7.alphacoders.com/112/thumb-1920-1128360.jpg)
 }
 .btn-danger,.btn-primary,.label-primary{
     background-color:var(--color-purple);
