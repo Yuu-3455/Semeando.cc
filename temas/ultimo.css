@@ -21,7 +21,7 @@
     --gradient-background:radial-gradient(at 30% top,#341a38 0%,#081c24 70%)
 }
 .breadcrumb{
-    text-align: center;
+    text-align: center
 }
 body{
     background-color:var(--color-dark-blue)
