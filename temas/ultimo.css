@@ -50,7 +50,7 @@ body{
     background:#1f1f1f
 }
 
-/*---------------------------Importante----------------------------------------------------------*/
+/*---------------------------------------------------------------Importante----------------------------------------------------------*/
 
 
 .ratio-bar{
@@ -98,7 +98,8 @@ i.torrent-icon{
     background-color:var(--color-dark-blue)
 }
 #l-footer{
-    background-color:#1f1f1f
+    /*background-color:#1f1f1f*/
+    background-image: url(https://www.imagemhost.com.br/images/2021/02/23/Pink-hair-anime-girl-white-background_m.jpg)!importamt;
 }
 .notify .point{
     background-color:var(--color-A400)
