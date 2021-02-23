@@ -17,7 +17,7 @@
     --color-dark-red:#181818;
     --movie-overlay:radial-gradient(circle at 20% 50%,#000 5.46%,rgba(173,20,87,0.46));
     /*--background-pipe:url(/img/pipes/pink.png);*/
-    --background-pipe:url("https://www.10wallpaper.com/wallpaper/1366x768/1812/Cute_Girl_Pink_Hair_Sunglasses_Anime_Design_1366x768.jpg")!important;
+    --background-pipe:url("https://www.10wallpaper.com/wallpaper/1366x768/1812/Cute_Girl_Pink_Hair_Sunglasses_Anime_Design_1366x768.jpg");
     --gradient-background:radial-gradient(at 30% top,#341a38 0%,#081c24 70%)
 }
 body{
